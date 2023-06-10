@@ -1,0 +1,32 @@
+.text-design
+{
+	font-family: Blackadder ITC;
+	font-size: 100px;
+	color: green;
+	text-decoration: solid brown;
+}
+.text-design2
+{
+	font-family: Cooper Black;
+	font-size: 30px;
+}
+.img-width-height
+{
+	width: 500px;
+	height: 500px;
+}
+.text-design3
+{
+	font-family: verdana;
+	font-size: 60px;
+	color: orange;
+	text-decoration: solid brown;
+}
+.footer
+{
+  background-color: #2e2d2b;
+}
+.padding
+{
+	padding-left: 300px;
+}
